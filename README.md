@@ -1,4 +1,7 @@
-### Hi there 👋
+#Hello everyone
+#welcome to my GitHub
+Updating my readme.
+we will save this in new branch
 
 <!--
 **SarahAli77/SarahAli77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
